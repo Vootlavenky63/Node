@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Vootlavenky63/Node/issues"
   },
-  "homepage": "https://github.com/Vootlavenky63/Node#readme"
+  "homepage": "https://github.com/Vootlavenky63/Node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
